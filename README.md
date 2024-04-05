@@ -1,1 +1,1 @@
-# Wine-Quality-Prediction-Using-Dense-Neural-Networks
+# Wine Quality Prediction Using Dense Neural Networks
