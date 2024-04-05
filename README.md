@@ -1,5 +1,8 @@
 # Wine Quality Prediction Using Dense Neural Networks
 
+![wine jpeg](https://github.com/ViswanathRajuIndukuri/Wine-Quality-Prediction-Using-Dense-Neural-Networks/assets/144731305/64aa1a64-ec59-4944-a5f4-445ed02e1a1e)
+
+
 This project focuses on the application of dense neural networks to predict the quality of wine. By utilizing various configurations of neural network models, we aim to optimize and evaluate predictive accuracy in determining wine quality.
 
 ## Overview
