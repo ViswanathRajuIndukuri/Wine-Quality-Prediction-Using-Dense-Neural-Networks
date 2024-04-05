@@ -20,7 +20,6 @@ The notebook contains a series of neural network models built and refined to pre
 
 ## Features
 
-- Separation of features and target variable for model training
 - Implementation of neural network models with varying complexity:
   - Model 1: Single hidden layer
   - Model 2: Two hidden layers
